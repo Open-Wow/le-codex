@@ -1,7 +1,7 @@
 ---
 name: "[Emulation - Galerie]"
 about: "[Emulation - Galerie]"
-title: ''
+title: "[Emulation - Galerie]"
 labels: "[Emulation - Galerie]"
 assignees: ''
 
