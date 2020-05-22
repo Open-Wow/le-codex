@@ -1,7 +1,7 @@
 ---
 name: "[Emulation - Outils]"
 about: "[Emulation - Outils]"
-title: ''
+title: "[Emulation - Outils]"
 labels: "[Emulation - Outils]"
 assignees: ''
 

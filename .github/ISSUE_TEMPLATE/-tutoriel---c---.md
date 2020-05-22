@@ -1,7 +1,7 @@
 ---
 name: "[Tutoriel - C++]"
 about: "[Tutoriel - C++]"
-title: ''
+title: "[Tutoriel - C++]"
 labels: "[Tutoriel - C++]"
 assignees: ''
 

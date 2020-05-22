@@ -1,7 +1,7 @@
 ---
 name: "[Tutoriel - SQL]"
 about: "[Tutoriel - SQL]"
-title: ''
+title: "[Tutoriel - SQL]"
 labels: "[Tutoriel - SQL]"
 assignees: ''
 

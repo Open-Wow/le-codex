@@ -1,7 +1,7 @@
 ---
 name: "[Model-Changing - Galerie]"
 about: "[Model-Changing - Galerie]"
-title: ''
+title: "[Model-Changing - Galerie]"
 labels: "[Model-Changing - Galerie]"
 assignees: ''
 

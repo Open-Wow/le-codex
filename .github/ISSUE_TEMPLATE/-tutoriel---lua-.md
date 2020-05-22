@@ -1,7 +1,7 @@
 ---
 name: "[Tutoriel - LUA]"
 about: "[Tutoriel - LUA]"
-title: ''
+title: "[Tutoriel - LUA]"
 labels: "[Tutoriel - LUA]"
 assignees: ''
 

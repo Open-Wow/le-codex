@@ -1,7 +1,7 @@
 ---
 name: "[Partages - C++]"
 about: "[Partages - C++]"
-title: ''
+title: "[Partages - C++]"
 labels: "[Partages - C++]"
 assignees: ''
 

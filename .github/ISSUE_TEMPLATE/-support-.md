@@ -1,7 +1,7 @@
 ---
 name: "[Support]"
 about: "[Support]"
-title: ''
+title: "[Support]"
 labels: "[Support]"
 assignees: ''
 

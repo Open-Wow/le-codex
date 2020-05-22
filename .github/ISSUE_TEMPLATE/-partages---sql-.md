@@ -1,7 +1,7 @@
 ---
 name: "[Partages - SQL]"
 about: "[Partages - SQL]"
-title: ''
+title: "[Partages - SQL]"
 labels: "[Partages - SQL]"
 assignees: ''
 
